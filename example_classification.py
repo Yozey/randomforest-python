@@ -88,3 +88,6 @@ for learner in weakLearner.__all__:
     img_test(forest, points, colors,
              'img/classification_forest_' + str(learner) + '_hard.png',
              proba=False)
+
+
+# change something
